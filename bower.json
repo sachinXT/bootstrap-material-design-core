@@ -1,0 +1,45 @@
+{
+  "name": "bootstrap-material-design-core",
+  "homepage": "https://github.com/sachinXT/bootstrap-material-design-core",
+  "authors": [
+    "Federico Zivolo <info@mywebexpression.com>"
+  ],
+  "description": "Material Design theme for Bootstrap 3",
+  "main": [
+    "dist/css/bootstrap-material-design.css",
+    "dist/js/material.js",
+    "dist/css/ripples.css",
+    "dist/js/ripples.js"
+  ],
+  "ignore": [
+    "test",
+    "screenshots",
+    "demo",
+    ".editorconfig",
+    ".gitignore",
+    ".jshintrc",
+    ".travis.yml",
+    "CONTRIBUTING.md",
+    "Gruntfile.json",
+    "index.html",
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "keywords": [
+    "material",
+    "design",
+    "bootstrap",
+    "theme",
+    "google",
+    "android"
+  ],
+  "license": "https://github.com/sachinXT/bootstrap-material-design-core/blob/main/LICENSE",
+  "dependencies": {
+    "jquery": "^2.2",
+    "bootstrap": "~3.3.6",
+    "bootstrap-sass": "~3.3.6"
+  }
+}
